@@ -19,7 +19,7 @@ cargo test
 ## How to Deploy?
 
 Deployment is automated with GitHub Actions CI/CD pipeline.
-To deploy manually, install [`cargo-near`](https://github.com/near/cargo-near) and run:
+To deploy manually, install [`cargo-near`](https://github.com/near/cargo-near) and run1:
 
 ```bash
 cargo near deploy <account-id>
